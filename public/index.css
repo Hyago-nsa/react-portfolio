@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+
+:root{
+    --yellow:#feed01;
+    --pink:#ec008c;
+    --black:#000;
+    --white:#fff;
+    --border:0.2rem solid var(--black);
+    --box-shadow:0 1rem 1.5rem rgba(0,0,0.3);
+    cursor: none !important;
+}
+
+* {
+    cursor: none !important;
+}
+
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    text-transform: none;
+    box-sizing: border-box;
+}
+
+*:active > .cursor{
+    transform: translateX(-40%) rotate(-45deg);
+}
+
+html{
+    font-size: 56.5%;
+    overflow-x: hidden;
+    scroll-padding-top: 7rem;
+}
+
+html::-webkit-scrollbar{
+    width: 1rem;
+}
+
+html::-webkit-scrollbar-track{
+    background: var(--yellow);
+}
+
+html::-webkit-scrollbar-thumb{
+    background: var(--black);
+}
+
+
+body{
+    background: var(--yellow);
+    overflow-x: hidden;
+}
+
+section{
+    padding: 4.5rem 10%;
+}
+
+.cursor {
+    position: absolute;
+    height: 8rem;
+    pointer-events: none;
+    top: -5rem;
+    left: -5rem;
+    transform: translateX(-40%);
+    z-index: 10000;
+}
+
+
+/* media queries section */
+
+@media (max-width: 1920px){
+    .home{
+        margin-top: 6rem;
+    }
+
+}
+
+@media (max-width:1200px){
+    .header{
+        padding: 1.5rem 2rem;
+    }
+
+    section{
+        padding: 3rem 10%;
+    }
+
+    .heading-2{
+        font-size: 10vw;
+    }
+
+    .heading{
+        font-size: 10vw;
+    }
+}
+
+@media (max-width:992px){
+    .cursor{
+        display: none;
+    }
+
+    html{
+        font-size: 55%;
+    }
+
+    section{
+        padding: 3rem 2rem;
+    }
+
+    .home h3{
+        font-size: 10vw;
+    }
+}
+
+@media (max-width:768px){
+    .navbar{
+        width: 100%;
+        z-index: 1200;
+    }
+
+    .about .info-container .image{
+        order: -1;
+    }
+
+    .projects .box-container .box:hover .content{
+        transform: translateY(0);
+        padding: 0 2rem;
+    }
+}
+
+@media (max-width:350px){
+    html{
+        font-size: 50%;
+    }
+
+    .projects .box-container .box:hover .content{
+        transform: translateY(0);
+        padding: 0 0;
+    }
+}

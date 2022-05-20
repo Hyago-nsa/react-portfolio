@@ -1,0 +1,48 @@
+.navbar{
+    position: fixed;
+    bottom: -110%;
+    height: calc(100% - 8rem);
+    width: 100%;
+    z-index: 1000;
+    background: var(--black);
+    padding: 0 2%;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+    transition: ease 0.5s ;
+    border-top: 0.1rem solid var(--white);
+}
+
+.navbar.active{
+    bottom:0;
+    border-top: 3.5rem solid var(--white);
+}
+
+.navbar a{
+    font-size: 5.5rem;
+    font-weight: 550;
+    color:var(--white);
+    -webkit-text-stroke: 0.2rem var(--black);
+    text-transform: uppercase;
+    transition: 0.2s linear;
+}
+
+.navbar a:hover{
+    background: var(--white);
+    font-weight: 550;
+    font-size: 4rem;
+    transform: scale(90%);
+    padding: 0.5rem 2rem;
+    color: var(--black)
+}
+
+.navbar .contact{
+    text-transform: uppercase;
+    font-size: 6rem;
+    font-weight: 550;
+    color:var(--white);
+    -webkit-text-stroke: 0.2rem var(--black);
+    transition: 0.2s linear;
+}

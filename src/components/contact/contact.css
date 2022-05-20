@@ -1,0 +1,31 @@
+.contact{
+    background: linear-gradient(var(--black) 50%, var(--yellow) 50%);
+    transition: 0.2s linear;
+}
+
+.contact form{
+    max-width: 70rem;
+    margin: 0 auto;
+    background-color: var(--white);
+    border: var(--border);
+    padding:2rem;
+}
+
+.contact form .box{
+    width: 100%;
+    margin: 0.7rem 0;
+    padding: 1.2rem 1.4rem;
+    text-transform: none;
+    font-size: 2rem;
+    border: var(--border)
+}
+
+.contact form .box::placeholder{
+    color:var(--black);
+    text-transform: capitalize;
+}
+
+.contact form textarea{
+    height: 20rem;
+    resize: none;
+}

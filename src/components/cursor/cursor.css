@@ -1,0 +1,10 @@
+.cursor {
+    padding: 5px solid red;
+    position: absolute;
+    height: 12rem;
+    pointer-events: none;
+    top: -5rem;
+    left: -5rem;
+    transform: translateX(-40%);
+    z-index: 10000;
+}

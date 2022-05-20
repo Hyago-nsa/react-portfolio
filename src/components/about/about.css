@@ -1,0 +1,166 @@
+.heading-2{
+    text-transform: uppercase;
+    text-align: center;
+    color:var(--black);
+    -webkit-text-stroke: 0.2rem var(--yellow);
+    font-size: 5vw;
+    padding-bottom: 5rem;
+    transition: 0.15s ease-out;
+}
+
+.heading-2:hover{
+    color:var(--yellow);
+    transition: 0.15s ease-in;
+}
+
+.heading-2 h3{
+    text-transform: uppercase;
+}
+
+.about {
+    background: var(--black)
+}
+
+.about .skill{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin-top: 8rem;
+}
+
+.about .skill .title{
+    font-size: 3.5rem;
+    color:var(--yellow);
+    text-align: center;
+    padding-bottom: 1.5rem;
+    text-transform: uppercase;
+}
+
+.about .skill .box{
+    flex: 1 1 41rem;
+}
+
+.about .skill .box .progress{
+    padding: 1rem 0;
+}
+
+.about .skill .box .progress h3{
+    font-size: 2rem;
+    color: var(--white);
+    display: flex;
+    justify-content: space-between;
+}
+
+.about .skill .box .progress h3 span{
+    color: var(--yellow);
+}
+
+.about .skill .box .progress .bar{
+    height: 2rem;
+    border: 0.2rem solid var(--white);
+    padding: 0.5rem;
+    margin-top: 1rem;
+}
+
+.about .skill .box .progress .bar span{
+    display: block;
+    background: var(--white);
+    height: 100%;
+    width: 95%;
+}
+
+.about .skill .box .progress.progress-2 .bar span{
+    width: 80%;
+}
+
+.about .skill .box .progress.progress-3 .bar span{
+    width: 65%;
+}
+
+.about .skill .box .progress.progress-4 .bar span{
+    width: 40%;
+}
+
+.about .skill .box .progress.progress-5 .bar span{
+    width: 60%;
+}
+
+.about .skill .box .progress.progress-6 .bar span{
+    width: 40%;
+}
+
+.about .skill .box .progress.progress-7 .bar span{
+    width: 70%;
+}
+
+.about .skill .box .progress.progress-8 .bar span{
+    width: 65%;
+}
+
+.about .skill .box .progress.progress-9 .bar span{
+    width: 40%;
+}
+
+.about .info-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap:2rem;
+    align-items: center;
+    margin-top: 3rem;
+}
+
+.about .info-container .info{
+    flex: 1 1 30rem;
+}
+
+.about .info-container .info:first-child{
+    text-align: right;
+}
+
+.about .info-container .image{
+    flex: 1 1 15rem;
+}
+
+.about .info-container .image img{
+    width: 100%;
+}
+
+.about .info-container .info p {
+    text-transform: none;
+    font-size: 2.4rem;
+    color: var(--white);
+    padding: 1rem 0;
+}
+
+.about .info-container .info p span{
+    color: var(--yellow)
+}
+
+@keyframes wave{
+    0%{
+        background-position-x: 0;
+    }
+
+    0%{
+        background-position-x: -250rem;
+    }
+
+}
+
+.line hr {
+    width: 80%;
+    height: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:var(--white);
+    opacity: 20%;
+    border: 0 none;
+    margin-top: 100px;
+    margin-bottom:100px;
+    transition: ease 0.25s;
+}
+
+.line hr:hover{
+    opacity: 100%;
+    transition: ease 0.25s;
+}
