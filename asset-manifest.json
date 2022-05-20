@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Hyago-nsa/react-portfolio/static/css/main.8546983f.css",
-    "main.js": "/Hyago-nsa/react-portfolio/static/js/main.33131ba0.js",
-    "static/media/meowth-tinder-for-cats.jpg": "/Hyago-nsa/react-portfolio/static/media/meowth-tinder-for-cats.cbbc7a19f6801cb4af6b.jpg",
-    "static/media/portfolio-website.jpg": "/Hyago-nsa/react-portfolio/static/media/portfolio-website.35a9d31a0e1b5fbc014d.jpg",
-    "static/media/send-weather-message.jpg": "/Hyago-nsa/react-portfolio/static/media/send-weather-message.0c56192fc6210a8e4f0b.jpg",
-    "static/media/icon-5.png": "/Hyago-nsa/react-portfolio/static/media/icon-5.9fe4cc0c4f159317f309.png",
-    "static/media/get-weather.jpg": "/Hyago-nsa/react-portfolio/static/media/get-weather.176494394e6a5fa8017b.jpg",
-    "static/media/to-do-list.jpg": "/Hyago-nsa/react-portfolio/static/media/to-do-list.7622436fbe87daa6a8a6.jpg",
-    "static/media/newsletter.jpg": "/Hyago-nsa/react-portfolio/static/media/newsletter.07406de156cfd45dd3a7.jpg",
-    "static/media/icon-6.png": "/Hyago-nsa/react-portfolio/static/media/icon-6.3c196e27543451798f3d.png",
-    "static/media/icon-4.png": "/Hyago-nsa/react-portfolio/static/media/icon-4.bb13ebd9561a6ee645c2.png",
-    "static/media/icon-2.png": "/Hyago-nsa/react-portfolio/static/media/icon-2.7ade9265dc9bd2c6bc82.png",
-    "static/media/icon-1.png": "/Hyago-nsa/react-portfolio/static/media/icon-1.e7a936432435be030e1c.png",
-    "static/media/icon-3.png": "/Hyago-nsa/react-portfolio/static/media/icon-3.b53de0f8c513f9e8b378.png",
-    "index.html": "/Hyago-nsa/react-portfolio/index.html",
-    "main.8546983f.css.map": "/Hyago-nsa/react-portfolio/static/css/main.8546983f.css.map",
-    "main.33131ba0.js.map": "/Hyago-nsa/react-portfolio/static/js/main.33131ba0.js.map"
+    "main.css": "/react-portfolio/static/css/main.8546983f.css",
+    "main.js": "/react-portfolio/static/js/main.dcfe7e12.js",
+    "static/media/meowth-tinder-for-cats.jpg": "/react-portfolio/static/media/meowth-tinder-for-cats.cbbc7a19f6801cb4af6b.jpg",
+    "static/media/portfolio-website.jpg": "/react-portfolio/static/media/portfolio-website.35a9d31a0e1b5fbc014d.jpg",
+    "static/media/send-weather-message.jpg": "/react-portfolio/static/media/send-weather-message.0c56192fc6210a8e4f0b.jpg",
+    "static/media/icon-5.png": "/react-portfolio/static/media/icon-5.9fe4cc0c4f159317f309.png",
+    "static/media/get-weather.jpg": "/react-portfolio/static/media/get-weather.176494394e6a5fa8017b.jpg",
+    "static/media/to-do-list.jpg": "/react-portfolio/static/media/to-do-list.7622436fbe87daa6a8a6.jpg",
+    "static/media/newsletter.jpg": "/react-portfolio/static/media/newsletter.07406de156cfd45dd3a7.jpg",
+    "static/media/icon-6.png": "/react-portfolio/static/media/icon-6.3c196e27543451798f3d.png",
+    "static/media/icon-4.png": "/react-portfolio/static/media/icon-4.bb13ebd9561a6ee645c2.png",
+    "static/media/icon-2.png": "/react-portfolio/static/media/icon-2.7ade9265dc9bd2c6bc82.png",
+    "static/media/icon-1.png": "/react-portfolio/static/media/icon-1.e7a936432435be030e1c.png",
+    "static/media/icon-3.png": "/react-portfolio/static/media/icon-3.b53de0f8c513f9e8b378.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.8546983f.css.map": "/react-portfolio/static/css/main.8546983f.css.map",
+    "main.dcfe7e12.js.map": "/react-portfolio/static/js/main.dcfe7e12.js.map"
   },
   "entrypoints": [
     "static/css/main.8546983f.css",
-    "static/js/main.33131ba0.js"
+    "static/js/main.dcfe7e12.js"
   ]
 }
