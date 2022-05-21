@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.73f64a54.css",
+    "main.css": "/react-portfolio/static/css/main.92f70d72.css",
     "main.js": "/react-portfolio/static/js/main.ee1ea24d.js",
     "static/media/meowth-tinder-for-cats.jpg": "/react-portfolio/static/media/meowth-tinder-for-cats.cbbc7a19f6801cb4af6b.jpg",
     "static/media/portfolio-website.jpg": "/react-portfolio/static/media/portfolio-website.35a9d31a0e1b5fbc014d.jpg",
@@ -17,11 +17,11 @@
     "static/media/icon-javascript.png": "/react-portfolio/static/media/icon-javascript.b53de0f8c513f9e8b378.png",
     "static/media/icon-nextjs.png": "/react-portfolio/static/media/icon-nextjs.2b05ac76365076dc3243.png",
     "index.html": "/react-portfolio/index.html",
-    "main.73f64a54.css.map": "/react-portfolio/static/css/main.73f64a54.css.map",
+    "main.92f70d72.css.map": "/react-portfolio/static/css/main.92f70d72.css.map",
     "main.ee1ea24d.js.map": "/react-portfolio/static/js/main.ee1ea24d.js.map"
   },
   "entrypoints": [
-    "static/css/main.73f64a54.css",
+    "static/css/main.92f70d72.css",
     "static/js/main.ee1ea24d.js"
   ]
 }
