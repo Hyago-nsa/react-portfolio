@@ -3,6 +3,11 @@
 
 }
 
+html .projects{
+    font-size: 80%;
+}
+
+
 .projects .heading-2{
     padding: 3rem 0 7rem 0;
 }
@@ -10,6 +15,7 @@
 .projects .box-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+    -ms-grid-columns: repeat(auto-fit, minmax(30rem, 1fr));
     gap:2rem;
 
 }
