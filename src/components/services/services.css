@@ -7,10 +7,14 @@
     margin: 1rem 0 6rem 0;
 }
 
+html .services{
+    font-size: 80%;
+}
+
 .services .box-container{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(22rem, 1fr));
-    -ms-grid-columns: repeat(auto-fit, minmax(22rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(35rem, 1fr));
+    -ms-grid-columns: repeat(auto-fit, minmax(35rem, 1fr));
     gap: 2rem;
 }
 
