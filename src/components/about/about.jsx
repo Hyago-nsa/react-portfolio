@@ -25,7 +25,7 @@ const About = () => {
             <div class="info">
                 <p><span> Freelance : </span> Avaliable</p>
                 <p><span> Language : </span> English, Portuguese</p>
-                <p><span> Phone : </span> +22 12345689</p>
+                <p><span> Phone : </span> 55 +22 992269294</p>
                 <p><span> Email : </span> hyago.eurico.nsa@gmail.com</p>
                 <p><span> Address : </span> Rio de Janeiro</p>
                 <p><span> Country : </span> Brazil</p>
