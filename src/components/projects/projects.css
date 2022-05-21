@@ -26,7 +26,7 @@ html .projects{
 }
 
 .projects .box-container .box img{
-    height: 30rem;
+    height: 35rem;
     width: 100%;
     object-fit: cover;
     padding-bottom: 8rem;
@@ -41,7 +41,7 @@ html .projects{
     height: 100%;
     background:  var(--white);
     text-align: center;
-    padding: 1rem 2rem;
+    padding: 2rem 2rem;
     transition: 0.2s linear;
     transform: translateY(calc(100% - 8.5rem));
 }
