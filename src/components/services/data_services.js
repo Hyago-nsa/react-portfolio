@@ -22,7 +22,7 @@ const data = [
         img: IMG2,
         alt: "CSS 3",
         title: "CSS 3",
-        subtitle: "Good experience in the style of Websites; Displaying beautiful shapes and models on your screen, no matter the size.",
+        subtitle: "Good experience in the style of Websites; Displaying beautiful shapes and models on your screen.",
         toGithub: "https://github.com/Hyago-nsa/Front-End"
     },
     {
