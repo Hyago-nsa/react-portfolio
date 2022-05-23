@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.5fdf2e67.css",
-    "main.js": "/react-portfolio/static/js/main.a70091a5.js",
+    "main.js": "/react-portfolio/static/js/main.1759c08c.js",
     "static/media/meowth-tinder-for-cats.jpg": "/react-portfolio/static/media/meowth-tinder-for-cats.cbbc7a19f6801cb4af6b.jpg",
     "static/media/portfolio-website.jpg": "/react-portfolio/static/media/portfolio-website.35a9d31a0e1b5fbc014d.jpg",
     "static/media/send-weather-message.jpg": "/react-portfolio/static/media/send-weather-message.0c56192fc6210a8e4f0b.jpg",
@@ -18,10 +18,10 @@
     "static/media/icon-nextjs.png": "/react-portfolio/static/media/icon-nextjs.2b05ac76365076dc3243.png",
     "index.html": "/react-portfolio/index.html",
     "main.5fdf2e67.css.map": "/react-portfolio/static/css/main.5fdf2e67.css.map",
-    "main.a70091a5.js.map": "/react-portfolio/static/js/main.a70091a5.js.map"
+    "main.1759c08c.js.map": "/react-portfolio/static/js/main.1759c08c.js.map"
   },
   "entrypoints": [
     "static/css/main.5fdf2e67.css",
-    "static/js/main.a70091a5.js"
+    "static/js/main.1759c08c.js"
   ]
 }
