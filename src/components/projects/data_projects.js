@@ -35,7 +35,7 @@ const data = [
         img: IMG4,
         alt: "[React] Portfolio Website",
         title: "[React] Portfolio Website",
-        subtitle: "This is the website you are browsing right now! Enjoy and get to know a little more about me. Any doubts? Send me a message!",
+        subtitle: "This is the website you are browsing right now! Enjoy and get to know a little more about me. Send me a message!",
         toGithub: "https:/github.com",
     },
     {
