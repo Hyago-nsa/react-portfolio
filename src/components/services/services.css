@@ -7,10 +7,6 @@
     margin: 1rem 0 6rem 0;
 }
 
-html .services{
-    font-size: 80%;
-}
-
 .services .box-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(35rem, 1fr));
@@ -19,6 +15,7 @@ html .services{
 }
 
 .services .box-container .box{
+    font-size: 80%;
     padding: 3rem;
     border: var(--border);
     background: var(--white);

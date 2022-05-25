@@ -3,11 +3,6 @@
 
 }
 
-html .projects{
-    font-size: 80%;
-}
-
-
 .projects .heading-2{
     padding: 3rem 0 7rem 0;
 }
@@ -21,6 +16,7 @@ html .projects{
 }
 
 .projects .box-container .box{
+    font-size: 80%;
     overflow: hidden;
     position: relative;
 }
