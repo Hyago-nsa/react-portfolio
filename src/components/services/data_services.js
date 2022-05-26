@@ -1,9 +1,11 @@
-import IMG1 from "../../assets/icon-1.png"
-import IMG2 from "../../assets/icon-2.png"
-import IMG3 from "../../assets/icon-3.png"
-import IMG4 from "../../assets/icon-4.png"
-import IMG5 from "../../assets/icon-5.png"
-import IMG6 from "../../assets/icon-6.png"
+import IMG1 from "../../assets/icon-html.png"
+import IMG2 from "../../assets/icon-css.png"
+import IMG3 from "../../assets/icon-javascript.png"
+import IMG4 from "../../assets/icon-nodejs.png"
+import IMG5 from "../../assets/icon-react.png"
+import IMG6 from "../../assets/icon-nextjs.png"
+import IMG7 from "../../assets/icon-typescript.png"
+import IMG8 from "../../assets/icon-angular.png"
 
 
 const data = [
@@ -20,7 +22,7 @@ const data = [
         img: IMG2,
         alt: "CSS 3",
         title: "CSS 3",
-        subtitle: "Good experience in the style of Websites; Displaying beautiful shapes and models on your screen, no matter the size.",
+        subtitle: "Good experience in the style of Websites; Displaying beautiful shapes and models on your screen.",
         toGithub: "https://github.com/Hyago-nsa/Front-End"
     },
     {
@@ -34,22 +36,38 @@ const data = [
     {
         id: 4,
         img: IMG4,
+        alt: "Node.js",
+        title: "Node.js",
+        subtitle: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        toGithub: "https://github.com/Hyago-nsa?tab=repositories"
+    },
+    {
+        id: 5,
+        img: IMG5,
         alt: "React",
         title: "React",
         subtitle: "Building user-friendly, readable and reusable UI components; I can enhance even further Websites!",
         toGithub: "https://github.com/Hyago-nsa?tab=repositories"
     },
     {
-        id: 5,
-        img: IMG5,
+        id: 6,
+        img: IMG6,
+        alt: "Next.js",
+        title: "Next.js",
+        subtitle: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        toGithub: "https://github.com/Hyago-nsa?tab=repositories"
+    },
+    {
+        id: 7,
+        img: IMG7,
         alt: "TypeScript",
         title: "TypeScript",
         subtitle: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         toGithub: "https://github.com/Hyago-nsa?tab=repositories"
     },
     {
-        id: 6,
-        img: IMG6,
+        id: 8,
+        img: IMG8,
         alt: "Angular",
         title: "Angular",
         subtitle: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",

@@ -9,18 +9,20 @@
 
 .projects .box-container{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(40rem, 1fr));
+    -ms-grid-columns: repeat(auto-fit, minmax(40rem, 1fr));
     gap:2rem;
 
 }
 
 .projects .box-container .box{
+    font-size: 80%;
     overflow: hidden;
     position: relative;
 }
 
 .projects .box-container .box img{
-    height: 30rem;
+    height: 35rem;
     width: 100%;
     object-fit: cover;
     padding-bottom: 8rem;
@@ -35,7 +37,7 @@
     height: 100%;
     background:  var(--white);
     text-align: center;
-    padding: 1rem 2rem;
+    padding: 2rem 2rem;
     transition: 0.2s linear;
     transform: translateY(calc(100% - 8.5rem));
 }
@@ -51,12 +53,12 @@
 }
 
 .projects .box-container .box .content h3{
-    font-size: 2rem;
+    font-size: 2.4rem;
 }
 
 .projects .box-container .box .content p{
     padding: 1rem 0;
-    font-size: 1.5rem;
+    font-size: 2.2rem;
     line-height: 2;
 }
 

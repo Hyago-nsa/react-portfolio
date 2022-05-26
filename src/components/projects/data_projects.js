@@ -11,7 +11,7 @@ const data = [
         img: IMG1,
         alt: "[Python] Send Weather Message",
         title: "[Python] Send Weather Message",
-        subtitle: "A python application that will send a daily message to your phone notifying you about the weather forecast during the day.",
+        subtitle: "A python application that will send a daily message to your phone notifying you about the weather forecast.",
         toGithub: "https://github.com/Hyago-nsa/Python/tree/main/%2313%20Send%20Message%20-%20Get%20Weather",
     },
     {
@@ -35,7 +35,7 @@ const data = [
         img: IMG4,
         alt: "[React] Portfolio Website",
         title: "[React] Portfolio Website",
-        subtitle: "This is the website you are browsing right now! Enjoy and get to know a little more about me. Any doubts? Send me a message!",
+        subtitle: "This is the website you are browsing right now! Enjoy and get to know a little more about me. Send me a message!",
         toGithub: "https:/github.com",
     },
     {
